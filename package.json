@@ -32,7 +32,7 @@
     "test-multibrowser": "grunt test:multibrowser"
   },
   "dependencies": {
-    "archiver": "~0.14.3",
+    "archiver": "~0.15.0",
     "babel-runtime": "^5.8.25",
     "css-parse": "~2.0.0",
     "css-value": "~0.0.1",
